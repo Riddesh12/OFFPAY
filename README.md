@@ -51,3 +51,5 @@ We plan to conduct further testing in areas with poor connectivity, enhance secu
 **Contributing:**
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+# [Contact Us](https://riddesh12.github.io/OFFPAY-contact-us-page/)
