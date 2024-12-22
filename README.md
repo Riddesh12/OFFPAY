@@ -33,8 +33,8 @@ The prototype of the application is available for review and testing. We are con
 **Team Members:**  
 1. Riddesh Kankariya  
 2. [Ankush Chudiwal](https://github.com/Ankush1oo8)  
-3. Sanyam Kataria 
-4. Pratham Goti  
+3. [Sanyam Kataria](https://github.com/Sanyamj894)
+4. [Pratham Goti](https://github.com/pratham-jain01)  
 
 **Future Work:**  
 We plan to conduct further testing in areas with poor connectivity, enhance security measures, and introduce new features based on user feedback. Our goal is to ensure seamless operation and improve the overall user experience.
@@ -44,6 +44,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 # [Contact Us](https://riddesh12.github.io/OFFPAY-contact-us-page/)  
 
----
-
-Feel free to update the placeholders for the other team members with their names!
