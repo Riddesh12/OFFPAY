@@ -40,7 +40,7 @@ The prototype of the application is available for review and testing. We are con
 
 **Links:**
 
-- **Prototype Code:** [GitHub Repository](https://github.com/Riddesh12/flutter_application_1)
+- **Prototype Code:** [GitHub Repository](https://github.com/Riddesh12/OFFPAY)
   
 - **App Proof:** [Google Drive Folder](https://drive.google.com/drive/folders/1OapWq3YGWxEJurp78pZQhSzwZ5Kfb2fD?usp=sharing)
 
