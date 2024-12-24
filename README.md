@@ -34,7 +34,7 @@ The prototype of the application is available for review and testing. We are con
 1. Riddesh Kankariya  
 2. [Ankush Chudiwal](https://github.com/Ankush1oo8)  
 3. [Sanyam Kataria](https://github.com/Sanyamj894)
-4. [Pratham Goti](https://github.com/pratham-jain01)  
+4. [Pratham Jain](https://github.com/pratham-jain01)  
 
 **Future Work:**  
 We plan to conduct further testing in areas with poor connectivity, enhance security measures, and introduce new features based on user feedback. Our goal is to ensure seamless operation and improve the overall user experience.
