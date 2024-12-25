@@ -124,7 +124,7 @@ class _ScanPageState extends State<ScanPage> {
                           "*99*1*1*${Variables.payTo}*${amount.text.trim()}*1#");
                       Variables.mapTransaction = {
                         "payto": Variables.payTo,
-                        "amount": amount,
+                        "amount": amount.text.trim(),
                         "time": DateTime.now().toString(),
                         "location": "",
                         "status": Variables.tranStatus,
