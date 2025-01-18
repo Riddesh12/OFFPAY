@@ -33,7 +33,7 @@ The prototype of the application is available for review and testing. We are con
 **Team Members:**  
 1. Riddesh Kankariya  
 2. [Ankush Chudiwal](https://github.com/Ankush1oo8)  
-3. [Sanyam Kataria](https://github.com/Sanyamj894)
+3. [Sanyam Katariya](https://github.com/Sanyamj894)
 4. [Pratham Jain](https://github.com/pratham-jain01)  
 
 **Future Work:**  
