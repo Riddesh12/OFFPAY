@@ -31,7 +31,7 @@ The prototype of the application is available for review and testing. We are con
 - **App Proof:** [Google Drive Folder](https://drive.google.com/drive/folders/1OapWq3YGWxEJurp78pZQhSzwZ5Kfb2fD?usp=sharing)  
 
 **Team Members:**  
-1. Riddesh Kankariya  
+1. [Riddesh Kankariya](https://github.com/Riddesh12) 
 2. [Ankush Chudiwal](https://github.com/Ankush1oo8)  
 3. [Sanyam Katariya](https://github.com/Sanyamj894)
 4. [Pratham Jain](https://github.com/pratham-jain01)  
