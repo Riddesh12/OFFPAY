@@ -44,3 +44,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 # [Contact Us](https://riddesh12.github.io/OFFPAY-contact-us-page/)  
 
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/4b3b97e2-f72b-4337-978b-8d2e1a57e59f" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/f09cc6c1-63e8-4aa1-a85b-7c67583604a8" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/c55d7e75-ce89-4111-b5db-737f8f7b5671" />
+
+
+
